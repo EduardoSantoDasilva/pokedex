@@ -34,8 +34,8 @@
 
   <!-- FOOTER -->
     <footer class="bg-primary text-light">
-      <div>
-        {{ new Date().getFullYear() }}
+      <div class="d-flex">
+        {{ new Date().getFullYear() }} <p class="ms-3"> eduardo santos</p>
       </div>
     </footer>
   <!-- -->
